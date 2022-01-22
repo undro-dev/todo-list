@@ -236,7 +236,6 @@ const tasks = [{
     setTheme(selectedTheme);
 
     localStorage.setItem('app_theme', selectedTheme);
-
   }
 
   function setTheme(name) {
